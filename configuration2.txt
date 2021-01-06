@@ -1,0 +1,5 @@
+urv.imas.title=IMAS_medium_simulation
+urv.imas.application=qualityservice
+urv.imas.fuzzyagents=4
+urv.imas.fuzzySettings=fcl3,fcl4,fcl5,fcl6
+urv.imas.aggregation=average

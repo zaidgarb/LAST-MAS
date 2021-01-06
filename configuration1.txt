@@ -1,0 +1,5 @@
+urv.imas.title=IMAS_basic_simulation
+urv.imas.application=tipper
+urv.imas.fuzzyagents=3
+urv.imas.fuzzySettings=fcl1,fcl2,fcl2
+urv.imas.aggregation=average
